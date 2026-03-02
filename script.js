@@ -7,3 +7,5 @@ console.log(login);
 
 let footer = "fotter added to the website"
 console.log(footer);
+let payment = "payemnt added to the website"
+console.log(payment);
