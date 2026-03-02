@@ -9,3 +9,6 @@ let footer = "fotter added to the website"
 console.log(footer);
 let payment = "payemnt added to the website"
 console.log(payment);
+
+let upi = "upi added to the website"
+console.log(upi);
