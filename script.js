@@ -14,3 +14,6 @@ let upi = "upi added to the website"
 console.log(upi);
 
 console.log('latest changes');
+
+// i am fixing bug
+console.log("bug fixed");
