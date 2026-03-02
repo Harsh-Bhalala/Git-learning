@@ -4,3 +4,6 @@ console.log(btn);
 
 let login = "login page added to the website"
 console.log(login);
+
+let footer = "fotter added to the website"
+console.log(footer);
